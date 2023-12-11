@@ -1,2 +1,2 @@
-# YM1-Kayseri-University-homework-and-projects
-C/C++ dilinde yazılmış basit kodlarım.
+# SE1-University-homeworks-and-projects
+My simple codes written in C/C++.
