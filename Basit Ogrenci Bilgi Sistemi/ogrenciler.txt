@@ -1,0 +1,12 @@
+Hasan Gidergelmez
+63
+Lineer Cebir,46,78
+Fizik,78,63
+Tarih,63,52
+-----
+Kerem Uzunyayla
+56
+Kimya,74,85
+Cografya,56,45
+Din,85,90
+-----
